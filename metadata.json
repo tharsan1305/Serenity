@@ -1,0 +1,7 @@
+{
+  "name": "Serenity - Your Mental Wellness Sanctuary",
+  "description": "A comprehensive mental wellness platform offering category-specific counseling, expert videos, mood tracking, and AI-powered journaling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
